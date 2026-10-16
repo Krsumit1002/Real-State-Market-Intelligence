@@ -1,0 +1,9 @@
+property_id,city,locality,property_type,area_sqft,price_inr,listing_date,price_per_sqft
+P1001,Noida,Sector 150,Apartment,1200,8500000,2026-08-10,7083.33
+P1002,Noida,Sector 137,Apartment,950,6800000,2026-08-15,7157.89
+P1003,Gurugram,Sector 57,Apartment,1400,14500000,2026-08-18,10357.14
+P1004,Noida,Sector 150,Apartment,1500,10500000,2026-09-01,7000.0
+P1005,Gurugram,Sector 56,Independent House,1800,22000000,2026-09-04,12222.22
+P1007,Noida,Sector 150,Apartment,1200,8500000,2026-08-10,7083.33
+P1009,Noida,Sector 76,Apartment,1050,7600000,2026-09-15,7238.1
+P1010,Gurugram,Sector 56,Independent House,1600,19500000,2026-09-20,12187.5
